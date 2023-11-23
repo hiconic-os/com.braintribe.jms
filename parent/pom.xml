@@ -21,10 +21,9 @@ You should have received a copy of the GNU Lesser General Public License along w
         <V.com.braintribe.common>[2.0,2.1)</V.com.braintribe.common>
         <V.com.braintribe.execution>[2.0,2.1)</V.com.braintribe.execution>
         <V.com.braintribe.gm>[2.0,2.1)</V.com.braintribe.gm>
-        <V.com.ibm>7.5.0.2</V.com.ibm>
         <V.concurrent>1.3.1</V.concurrent>
         <V.javax.annotation>1.3.2</V.javax.annotation>
-        <V.javax.jms>1.1</V.javax.jms>
+        <V.jakarta.jms>2.0.2</V.jakarta.jms>
         <V.jboss_jboss-common>4.2.2.GA</V.jboss_jboss-common>
         <V.jboss_jbossmq-client>4.0.2</V.jboss_jbossmq-client>
         <V.jboss_jnp-client>4.2.2.GA</V.jboss_jnp-client>

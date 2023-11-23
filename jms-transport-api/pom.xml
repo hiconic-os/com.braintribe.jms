@@ -30,10 +30,10 @@ You should have received a copy of the GNU Lesser General Public License along w
         </license>
     </licenses>
     <dependencies>
-        <dependency>
-            <groupId>javax.jms</groupId>
-            <artifactId>jms</artifactId>
-            <version>${V.javax.jms}</version>
-        </dependency>
+		<dependency>
+		    <groupId>jakarta.jms</groupId>
+		    <artifactId>jakarta.jms-api</artifactId>
+            <version>${V.jakarta.jms}</version>
+		</dependency>
     </dependencies>
 </project>

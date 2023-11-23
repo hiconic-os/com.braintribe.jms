@@ -46,9 +46,9 @@ You should have received a copy of the GNU Lesser General Public License along w
             <version>${V.com.braintribe.common}</version>
         </dependency>
         <dependency>
-            <groupId>javax.jms</groupId>
-            <artifactId>jms</artifactId>
-            <version>${V.javax.jms}</version>
+		    <groupId>jakarta.jms</groupId>
+		    <artifactId>jakarta.jms-api</artifactId>
+            <version>${V.jakarta.jms}</version>
         </dependency>
         <dependency>
             <groupId>com.braintribe.execution</groupId>
